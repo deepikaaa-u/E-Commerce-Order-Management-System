@@ -68,6 +68,10 @@ The following constraints are used to maintain data integrity:
 
 This project was developed as a team-based DBMS project.
 
+## Project Demonstration Video
+
+[Watch Our Project Demonstartion Video](https://drive.google.com/file/d/1GsakF_j6jt7gf0fnBjrVLpL3x34RM-Sv/view?usp=sharing)
+
 ## Repository Contents
 
 This repository contains the SQL database scripts, ER diagram, project documentation, presentation and supporting screenshots for the E-Commerce Order Management System.
